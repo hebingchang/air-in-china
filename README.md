@@ -1,7 +1,7 @@
 # air in China / Openair
 This project is to fetch data from the official Silverlight application of Ministry of Environmental Protection of China (http://106.37.208.233:20035/), which publish realtime air quality.
 
-本项目旨在从国家官方空气质量发布平台(http://106.37.208.233:20035/)的Silverlight程序中获取空气质量数据，便于处理后进行二次开发。
+本项目旨在从国家官方空气质量发布平台(http://106.37.208.233:20035/) 的Silverlight程序中获取空气质量数据，便于处理后进行二次开发。
 
 ## Install
 via pip (recommanded):
@@ -195,4 +195,6 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Afterword
-由于国情，我国在数据公开方面的工作的确乏善可陈。但是，每个国民都应有获知数据的权利，所以我将此项目开源，提供一条获取空气质量数据的思路。
+由于国情，我国在数据公开方面的工作的确乏善可陈。
+
+但是，每个国民都应有获知数据的权利，所以我将此项目开源，提供一个从官方渠道获取空气质量数据的途径。
