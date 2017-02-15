@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: openair
+Version: 0.1.0
+Summary: This project is to fetch data from the official Silverlight application of Ministry of Environmental Protection of China (http://106.37.208.233:20035/), which publish realtime air quality. 本项目旨在方便地获取官方发布的全国空气质量数据。
+Home-page: https://ovo.qaq.ac.cn
+Author: hebingchang
+Author-email: hebingchang@sjtu.edu.cn
+License: MIT
+Description: UNKNOWN
+Keywords: aqi,air,china
+Platform: any

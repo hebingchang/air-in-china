@@ -1,5 +1,7 @@
 #-*- encoding: utf-8 -*-
-import air_class, json
+import json
+from openair import air_class
+
 air = air_class.airChina()
 '''
 # Get data of all air matters from each station in China
@@ -36,3 +38,6 @@ print AllCityStation
 cityHistory = air.getCityHistory(u"上海市")
 print cityHistory
 '''
+
+cityHistory = air.getCityHistory(u"上海市")
+print cityHistory
