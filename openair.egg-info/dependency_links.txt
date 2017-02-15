@@ -1,1 +1,1 @@
-
+http://github.com/ernw/python-wcfbin/tarball/master#egg=wcf-binary-parser-0.5.3
