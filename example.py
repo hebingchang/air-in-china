@@ -3,7 +3,7 @@ import json
 from openair import air_class
 
 air = air_class.airChina()
-'''
+
 # Get data of all air matters from each station in China
 allData = air.getAllStationsData()
 print json.dumps(allData[0])
@@ -16,7 +16,7 @@ print json.dumps(allData[0])
 
 provinceData = air.getProvinceStationsData("shanghai", type=2)
 print json.dumps(provinceData)
-'''
+
 # Get all province names
 AllProvince = air.getAllProvinceName()
 print json.dumps(AllProvince)
